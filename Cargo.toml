@@ -1,0 +1,18 @@
+[package]
+name = "compression_lib"
+version = "0.1.0"
+edition = "2024"
+description = "A compression library implementing RLE, LZ77, and Huffman encoding"
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
+
+[lints.rust]
+unsafe_code = "forbid"
+
+[lints.clippy]
+all = "warn"
+pedantic = "warn"
+nursery = "warn"
