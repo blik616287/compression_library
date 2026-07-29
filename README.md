@@ -281,10 +281,6 @@ src/
 - LZ77 maximum match length: 255 bytes (u8)
 - No streaming API (full input required)
 
-## License
-
-MIT License
-
 ## Contributing
 
 Contributions are welcome! Please ensure:
@@ -294,3 +290,7 @@ Contributions are welcome! Please ensure:
 3. Code is formatted: `cargo fmt`
 4. New features include tests
 5. Test coverage remains above 95%
+
+## License
+
+[MIT](LICENSE) © 2026 Martin Forde <mforde84@gmail.com>, [Blik Labs](https://bliklabs.com).
